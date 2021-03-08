@@ -1,0 +1,70 @@
+body{
+    background-color: #ffe4e1;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+}
+
+h1{
+    color: #ff007f;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    color: #ff007f;
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+    color: #ff6781;
+    padding: 0 45px;
+    text-indent: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+footer{
+    color: #ff6781;
+    padding: 0 45px 30px 0;
+    text-indent: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+.painel{
+    margin: 10px 0;
+    padding: 10px;
+    width: 445px;
+}
+
+.hopihari{
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;0
+}
+
+img{
+    height: 200px;
+    width: 250px;
+    border-radius: 40px;
+}
+
+figcaption{
+    font-style: italic;
+    margin-top: 10px;
+    color: #ff6781;
+}
+
+figure{
+    background-color: #ffe9f4;
+    border:1px solid #de3163;
+    text-align: center;
+    padding: 30px;
+    margin: 60px;
+    border-radius: 100px;
+}
